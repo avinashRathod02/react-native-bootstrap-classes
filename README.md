@@ -9,10 +9,6 @@ A simple and fully customizable React Native component that implements a progres
 - Each steps content is displayed inside of a customizable ScrollView.
 - Fully customizable buttons are displayed at the bottom of the component to move between steps.
 
-|                                          Example One                                           |                                          Example Two                                           |
-| :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
-| ![](assets/react-native-progress-steps_1.gif) [examples/ExampleOne.js](examples/ExampleOne.js) | ![](assets/react-native-progress-steps_2.gif) [examples/ExampleTwo.js](examples/ExampleTwo.js) |
-
 ## Installation
 
 If using yarn:
